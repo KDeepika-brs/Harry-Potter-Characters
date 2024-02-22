@@ -1,0 +1,19 @@
+body {
+    background: url("../img/bg.jpg");
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin-top: 15px;
+}
+
+input {
+    margin-top: 10px;
+}
+
+#result {
+    margin-top: 20px;
+}
